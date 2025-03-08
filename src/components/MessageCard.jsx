@@ -197,6 +197,7 @@ const messages = [
   "Em không chỉ là bạn gái của anh, em là bạn thân nhất của anh, là người bạn tâm giao và là tất cả của anh.",
   "Anh trân trọng từng khoảnh khắc chúng ta bên nhau, và anh mong muốn tạo ra nhiều kỷ niệm đẹp hơn nữa.",
   "Chúc mừng Ngày Phụ nữ, tình yêu của anh! Em xứng đáng có được tất cả hạnh phúc trên thế giới này.",
+  "Nguyễn Thị Hồng Vân, anh yêu em!",
 ];
 
 // Then update the MessageCard component to accept and pass the prop:
