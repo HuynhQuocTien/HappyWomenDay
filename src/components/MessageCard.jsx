@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import { motion, AnimatePresence } from "framer-motion";
 
@@ -70,7 +70,7 @@ const Message = styled(motion.p)`
   line-height: 1.7;
   color: #333;
   margin-bottom: 25px;
-  font-family: "Comic Sans MS", "Bubblegum Sans", "Indie Flower", cursive;
+  // font-family: "Great Vibes", "Bubblegum Sans", "Indie Flower", cursive;
   text-align: center;
   position: relative;
 
